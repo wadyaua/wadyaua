@@ -11,33 +11,43 @@ Thanks to my design background, I work confidently with Figma layouts and have a
 
 I'm responsible, detail-oriented, and continuously improving in the Front-End field. Open to new opportunities, team collaboration, and real projects where I can grow alongside the product.
 
+<hr/>
+
 * 🌍  I'm based in Ukraine, Kiev
-* 🖥️  See my portfolio at [at this link](http://wadyaua.github.io/portfolio/ChefMate/)
-* ✉️  You can contact me at [wadyaua2.0@gmail.com](mailto:wadyaua2.0@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on I'm open to collaborating on front-end projects, responsive web pages, or any opportunities that help me grow as a developer.
+
+<div align="left">
+   <a href="mailto:wadyaua2.0@gmail.com" target="_blank" >
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://wadyaua.github.io/portfolio/ChefMate" target="_blank" >
+     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
 
 ### Skills
 
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="48" height="48"/>
+   <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,vite,git,github" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48"/>
+</p>
+<p align="left">
+   <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS" width="48" height="48"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48"/>
+</p>
+<p align="left">
+   <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=windows,apple" />
   </a>
 </p>
 
+<hr/>
 
 ### Socials
 
