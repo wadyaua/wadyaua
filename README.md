@@ -21,11 +21,20 @@ I'm responsible, detail-oriented, and continuously improving in the Front-End fi
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="48" height="48"/>
   </a>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS" width="48" height="48"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48"/>
   </a>
 </p>
 
