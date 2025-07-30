@@ -21,7 +21,9 @@ I'm responsible, detail-oriented, and continuously improving in the Front-End fi
 
 
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,javascript,figma,githubpages,github,git,lightroom,illustrator,photoshop"/>
+  </a>
 </p>
 
 
