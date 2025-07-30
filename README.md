@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-I build responsive web interfaces with clean code and attention to detail. I combine HTML/CSS/SCSS skills, basic JavaScript, and a background in design to create modern, user-friendly websites. I'm eager to grow as a Front-End Developer and open to new opportunities.
+I’m a Junior Front-End Developer with a background in design and a focus on clean, responsive layout.
+
+I build modern websites using HTML, CSS, SCSS, and basic JavaScript, aiming for pixel-perfect accuracy and following principles of full responsiveness and cross-browser compatibility to ensure proper display across all devices.
+
+I have experience working on a variety of web projects — from landing pages and personal websites to pages focused on modern technologies like artificial intelligence and blockchain.
+
+Thanks to my design background, I work confidently with Figma layouts and have a strong visual sense.
+
+I'm responsible, detail-oriented, and continuously improving in the Front-End field. Open to new opportunities, team collaboration, and real projects where I can grow alongside the product.
 
 * 🌍  I'm based in Ukraine, Kiev
 * 🖥️  See my portfolio at [at this link](http://wadyaua.github.io/portfolio/ChefMate/)
