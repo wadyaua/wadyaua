@@ -33,7 +33,7 @@ I'm responsible, detail-oriented, and continuously improving in the Front-End fi
 
 <p align="left">
    <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,vite,git,github" />
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,vite,git,github,notion" />
   </a>
 </p>
 <p align="left">
