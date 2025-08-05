@@ -21,7 +21,7 @@ I'm responsible, detail-oriented, and continuously improving in the Front-End fi
    <a href="mailto:wadyaua2.0@gmail.com" target="_blank" >
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://wadyaua.github.io/portfolio/ChefMate" target="_blank" >
+  <a href="https://spring-vertebra-c2c.notion.site/Hi-My-name-is-Vadim-Sheveyko-and-this-is-my-Portfolio-24356dd332b380c38f57e9a36f38f3fc?source=copy_link" target="_blank" >
      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
   </a>
 </div>
