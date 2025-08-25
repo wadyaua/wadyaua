@@ -1,21 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadim Sheveyko
 ======================================================================================================================================
 
-I’m a Junior Front-End Developer with a background in design and a focus on clean, responsive layout.
+I’m a Junior Front-End Developer.
 
-I build modern websites using HTML, CSS, SCSS, and basic JavaScript, aiming for pixel-perfect accuracy and following principles of full responsiveness and cross-browser compatibility to ensure proper display across all devices.
+I create modern websites using HTML, CSS, SCSS, and JavaScript, following the principles of responsive and cross-browser design and ensuring pixel-perfect implementation of layouts.
 
-I have experience working on a variety of web projects — from landing pages and personal websites to pages focused on modern technologies like artificial intelligence and blockchain.
-
-Thanks to my design background, I work confidently with Figma layouts and have a strong visual sense.
-
-I'm responsible, detail-oriented, and continuously improving in the Front-End field. Open to new opportunities, team collaboration, and real projects where I can grow alongside the product.
+I have experience working on web projects of varying complexity. Thanks to my background in design, I work well with Figma mockups and have a strong visual sense.
 
 <hr/>
 
 * 🌍  I'm based in Ukraine, Kiev
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on I'm open to collaborating on front-end projects, responsive web pages, or any opportunities that help me grow as a developer.
+* 🤝  I’m open to new opportunities in Front-End development and collaborative teamwork.
 
 <div align="left">
    <a href="mailto:wadyaua2.0@gmail.com" target="_blank" >
