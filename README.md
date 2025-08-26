@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vadim Sheveyko
+Hi there, i'm Vadim![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-I’m a Junior Front-End Developer.
+#### Junior Front-End Developer | HTML, CSS, SCSS, JavaScript
 
+<hr/>
+
+## 👨‍💻 About Me
 I create modern websites using HTML, CSS, SCSS, and JavaScript, following the principles of responsive and cross-browser design and ensuring pixel-perfect implementation of layouts.
 
 I have experience working on web projects of varying complexity. Thanks to my background in design, I work well with Figma mockups and have a strong visual sense.
@@ -10,7 +13,7 @@ I have experience working on web projects of varying complexity. Thanks to my ba
 <hr/>
 
 * 🌍  I'm based in Ukraine, Kiev
-* 🧠  I'm learning JavaScript
+* 🧠  Currently learning JavaScript
 * 🤝  I’m open to new opportunities in Front-End development and collaborative teamwork.
 
 <div align="left">
@@ -24,7 +27,7 @@ I have experience working on web projects of varying complexity. Thanks to my ba
 
 <hr/>
 
-### Skills
+## 🛠️ Skills
 
 
 <p align="left">
@@ -45,7 +48,7 @@ I have experience working on web projects of varying complexity. Thanks to my ba
 
 <hr/>
 
-### Socials
+### 📱Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/wadya-linked-ua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
  <a href="http://www.instagram.com/wadyaua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </p>
