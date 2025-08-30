@@ -12,7 +12,7 @@ I have experience working on web projects of varying complexity. Thanks to my ba
 
 <hr/>
 
-* 🌍  I'm based in Ukraine, Kiev
+* 🌍  I'm based in Ukraine, Kyiv
 * 🧠  Currently learning JavaScript
 * 🤝  I’m open to new opportunities in Front-End development and collaborative teamwork.
 
